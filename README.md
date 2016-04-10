@@ -5,7 +5,13 @@ This is a Preview of verb conjugation trainer for Brazilian portuguese.
 It contains 73 most common verbs with conjugations in presente, pretérito perfeito and pretérito imperfeito (for imperfeito cards types are not written yet).
 Goal is to cover the top 500 verbs.
 
+## What you need
+
+  [Anki](http://ankisrs.net)
+  
 ## How to use:
+
+0. Import the deck into Anki
 
 1. By default, only the cards for learning present tense are active, this is what you should start with.
 Past tense is suspended (deactivated) by default. If you want to enable the past tens cards, do the following:
