@@ -24,6 +24,7 @@ Past tense is suspended (deactivated) by default. If you want to enable the past
 ##Special Thanks
 
 * [Bruno](https://www.reddit.com/user/Brunolimaam) for helping me writing the spreadsheet
+* [Lauren Steely](http://hackingportuguese.com/sample-page/the-1000-most-common-verbs-in-portuguese/) of hackingportuguese.com for the top 1000 verb list
 
 ## Join Us
 
