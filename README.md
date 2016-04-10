@@ -5,6 +5,10 @@ This is a Preview of verb conjugation trainer for Brazilian portuguese.
 It contains 73 most common verbs with conjugations in presente, pretérito perfeito and pretérito imperfeito (for imperfeito cards types are not written yet).
 Goal is to cover the top 500 verbs.
 
+##What it contains
+
+* a ready to use Anki deck .apkg file
+* raw data of verb conjugations in various formats: ods,xlsx,csv
 
 ## What you need
 
