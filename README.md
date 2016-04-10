@@ -5,6 +5,7 @@ This is a Preview of verb conjugation trainer for Brazilian portuguese.
 It contains 73 most common verbs with conjugations in presente, pretérito perfeito and pretérito imperfeito (for imperfeito cards types are not written yet).
 Goal is to cover the top 500 verbs.
 
+
 ## What you need
 
   [Anki](http://ankisrs.net)
@@ -25,7 +26,9 @@ Past tense is suspended (deactivated) by default. If you want to enable the past
 4. If you want to use the spreadsheet in order to import it into Anki, you can do so. Make sure you convert the spreadsheet into a csv-file with utf8 encoding (e.g. with LibreOffice -> save a copy). Be aware to NOT USE the comma `,` as a seperator since the example sentences contain commas. Use semicolons `;` instead.
 5. additional recommandations: in order to learn the most importand verbs first, go to the deck options, go to the 'new cards' tab and check whether the order is set to `show cards in order added` and uncheck `bury related new cards`.
 
---------------------------
+##License
+
+CC0 1.0 Universal
 
 ##Special Thanks
 
