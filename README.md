@@ -8,7 +8,7 @@ This repository contains:
 * a ready to use Anki deck .apkg file
 * raw data of verb conjugations in various formats: ods,xlsx,csv
 
-## Usage
+### Usage
 
 0. Import the deck into Anki
 
@@ -24,16 +24,16 @@ Past tense is suspended (deactivated) by default. If you want to enable the past
 4. If you want to use the spreadsheet in order to import it into Anki, you can do so. Make sure you convert the spreadsheet into a csv-file with utf8 encoding (e.g. with LibreOffice -> save a copy). Be aware to NOT USE the comma `,` as a seperator since the example sentences contain commas. Use semicolons `;` instead.
 5. additional recommandations: in order to learn the most importand verbs first, go to the deck options, go to the 'new cards' tab and check whether the order is set to `show cards in order added` and uncheck `bury related new cards`.
 
-##License
+###License
 
 CC0 1.0 Universal
 
-##Special Thanks
+###Special Thanks
 
 * [Bruno](https://www.reddit.com/user/Brunolimaam) for helping me writing the spreadsheet
 * [Lauren Steely](http://hackingportuguese.com/sample-page/the-1000-most-common-verbs-in-portuguese/) of hackingportuguese.com for the top 1000 verb list
 
-## Join Us
+### Join Us
 
 **We need your help to make this deck awesome!**
 
