@@ -9,7 +9,7 @@ Goal is to cover the top 500 verbs.
 
   [Anki](http://ankisrs.net)
   
-## How to use:
+## How to use
 
 0. Import the deck into Anki
 
