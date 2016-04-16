@@ -22,7 +22,9 @@ If you need other conjugations (such as Pretérito mais-que-perfeito or Fururo d
 
 ### Usage
 
-0. Import the deck into Anki
+0. Download or clone the repo
+
+0. Import the deck (.apkg file) into Anki
 
 1. By default, only the cards for learning present tense and pretérito perfeito are active, this is what you should start with.
 Other tenses are suspended (deactivated) by default. If you want to enable the pretérito imperfeito cards, do the following:
