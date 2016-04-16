@@ -16,7 +16,7 @@ This deck contains ready-to-use cards for:
 
 If you need other conjugations (such as Pretérito mais-que-perfeito or Fururo do pretérito), simply create the cards you like and reimport the csv file. You can open the csv file with your preferred spreadsheet application beforehand to see what's available and to check the correct mapping.
 
-**For continetial portuguese** it is very similar. Create the missing cards for tu and vós, then reimport the csv file. Be careful about the correct mapping and use `update existing notes`.
+**For continetial portuguese** it is even easier. Create the missing cards for tu and vós, the corresponding fields already exist, so you don't need to reimport the csv file.
 
 
 
