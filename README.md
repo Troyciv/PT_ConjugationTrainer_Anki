@@ -18,9 +18,7 @@ If you need other conjugations (such as Pretérito mais-que-perfeito or Fururo d
 
 **For continetial portuguese** it is very similar. Create the missing cards for tu and vós, then reimport the csv file. Be careful about the correct mapping and use `update existing notes`.
 
-This repository contains:
-* a ready to use Anki deck .apkg file
-* raw data of verb conjugations in various formats: ods,xlsx,csv
+
 
 ### Usage
 
