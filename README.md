@@ -14,7 +14,7 @@ This deck contains ready-to-use cards for:
 * Subjuntivo Pretérito Imperfeito (deactivated by default)
 * Subjuntivo Futuro (deactivated by default)  
 
-If you need other conjugations (such as Pretérito mais-que-perfeito or Fururo do pretérito), simply create the cards you like and reimport the csv file. You can open the csv file with your preferred spreadsheet application beforehand to see what's available and to check the correct mapping.
+If you need other conjugations (such as Pretérito mais-que-perfeito or Fururo do pretérito), simply create the cards and fields you like and reimport the csv file. You can open the csv file with your preferred spreadsheet application before to see what's available and to check the correct mapping.
 
 **For continetial portuguese** it is even easier. Create the missing cards for tu and vós, the corresponding fields already exist, so you don't need to reimport the csv file.
 
